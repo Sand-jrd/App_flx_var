@@ -1,7 +1,7 @@
 # App_flx_var
 
 A small tool to visualize the variation of flux in different apertures within 3D image cubes
-
+Requirement.txt shows the version of the package I currently use. 
 
 
 1. Set the path of the cube and the few parameters (nb_app, crop size, app_size). 3D cube as fits file with dimension in order (nb_frame,frame_width, frame height).
