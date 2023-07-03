@@ -10,7 +10,7 @@ A small tool to visualize the variation of flux in different apertures within 3D
 
 3. Click on the image with your mouse to position the aperture(s) 
 
-4. Example of plot produced below &darr
+4. Example of plot produced below ↓
 
 
 ![exemple](demo.png)
